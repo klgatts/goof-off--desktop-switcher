@@ -2,7 +2,7 @@
 
 一个藏在托盘里的小工具：**单击快捷键在工作/摸鱼虚拟桌面之间来回切换，双击回到工作桌面并把默认浏览器切到第一个标签页（也可自定义打开程序/执行快捷键），长按可以把窗口瞬间藏起来**。免安装、无额外依赖。
 
-<img width="240" height="240" alt="摸鱼" src="https://github.com/user-attachments/assets/d62921c8-27c1-4c6e-a34a-932293f9e803" />
+<img width="240" height="240" alt="摸鱼" src="https://github.com/klgatts/goof-off--desktop-switcher/blob/main/%E6%91%B8%E9%B1%BC%E6%A1%8C%E9%9D%A2%E5%88%87%E6%8D%A2%E5%9B%BE%E6%A0%87_%E9%80%8F%E6%98%8E.png" />
 
 程序基于 AutoHotkey v2 开发
 
